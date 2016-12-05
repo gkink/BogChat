@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BogChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <!--strings from the old application-->
+    <string name="no_message">No Conversation History</string>
+    <string name="no_conversations">No Conversations</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_line">\n</string>
+    <string name="your_message_prefix">You:&#160;</string>
+    <string name="search">search</string>
+    <string name="contact_list_url">https://dl.dropboxusercontent.com/u/28030891/FreeUni/Android/assinments/contacts.json</string>
+    <string name="user_name">Philip J. Fry</string>
+    <string name="username_title">username</string>
+    <string name="username">f.j.fry</string>
+    <string name="phone_number_title">phone number</string>
+    <string name="user_phone_number">1729-87539319</string>
+    <string name="message_input_hint">Write a message...</string>
+</resources>
